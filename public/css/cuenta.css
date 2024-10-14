@@ -1,0 +1,31 @@
+.profile-head {
+  transform: translateY(5rem)
+}
+
+.cover {
+  background-image: url(../images/bannerC.jfif);
+  border-radius: 10px;
+  background-size: cover;
+  background-repeat: no-repeat
+}
+
+body {
+  background: linear-gradient(to right, #2587a4, #101214);
+  min-height: 100vh;
+  overflow-x:hidden;
+}
+
+h4{
+  text-align: center;
+}
+
+.Card{
+border-radius: 10px;
+}
+
+.infor{
+  border-radius: 10px;
+  box-shadow: #101214;
+  background-color: rgb(197, 203, 203);
+  padding: 8px;
+}

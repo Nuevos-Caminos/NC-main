@@ -39,18 +39,16 @@
   <body>
   <?php include 'includes/NavbarInf.php'; ?>
       <!-- Breadcrumbs -->
-      <section class="breadcrumbs-custom-inset">
+      <section class="breadcrumbs-custom-inset p-0">
         <div class="breadcrumbs-custom context-dark bg-overlay-60">
           <div class="container">
-            <h2 class="breadcrumbs-custom-title">Typography</h2>
+            <h2 class="breadcrumbs-custom-title">Hogar</h2>
             <ul class="breadcrumbs-custom-path">
-              <li><a href="index.html">Home</a></li>
-              <li class="active">Typography</li>
             </ul>
           </div>
           <div
             class="box-position"
-            style="background-image: url(images/breadcrumbs-bg.jpg)"
+            style="background-image: url(imageshogar/moradia.jpg)"
           ></div>
         </div>
       </section>

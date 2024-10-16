@@ -41,8 +41,8 @@
                   <!-- RD Navbar Brand: a parte branca em cima da navbar-->
                   <div class="rd-navbar-brand">
                     <!--Brand: as informações dentro da Brand,e definindo que ela não é estatica na tela-->
-                    <a class="brand" href="index.php">
-                      <img src="../images/logo.png" class="logo"/></a>
+                    <a class="brand" href="../index.php">
+                      <img src="imagesempre/logo.png" class="logo"/></a>
                   </div>
                 </div>
                 <div class="rd-navbar-aside-right rd-navbar-collapse">
@@ -71,7 +71,7 @@
                   <!--Botão da Brand--->
                   <a
                     class="button button-md button-default-outline-2 button-ujarak"
-                    href="../cuenta.php">Su cuenta</a>
+                    href="../../../../NC-main 2/public/forum/">Foro</a>
                 </div>
               </div>
             </div>
@@ -101,9 +101,6 @@
                         <a class="dropdown-item" href="empreabilidad.php">Empreabilidad</a>
                         <a class="dropdown-item" href="consejos.php">Consejos diarios</a>
                       </div>
-                    </li>
-                    <li class="rd-nav-item">
-                      <a class="rd-nav-link" href="../discussion-forum/category.php">Foro</a>
                     </li>
                   </ul>
                 </div>

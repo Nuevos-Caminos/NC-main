@@ -37,7 +37,7 @@
     </style>
   </head>
   <body>
-  <?php include 'includes/NavbarInf.php'; ?>
+ <?php include 'includes/Navbarinf.php'; ?>
       <!-- Breadcrumbs -->
       <section class="breadcrumbs-custom-inset p-0">
         <div class="breadcrumbs-custom context-dark bg-overlay-60">

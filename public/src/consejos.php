@@ -69,6 +69,16 @@
                 <li id="scroll"><a class="link-active" href="#5">Licencia de conducir</a></li>
                 <li id="scroll"><a class="link-active" href="#6">Inmigrante calificado</a></li>
                 <li id="scroll"><a class="link-active" href="#7">Transporte público</a></li>
+                <br>
+                <div class="card" id="sebrae">
+                  <a href="https://www.ung.br/noticias/conheca-instituicoes-que-acolhem-e-auxiliam-imigrantes-no-brasil#:~:text=CENTRO%20DE%20DIREITOS%20HUMANOS%20E,e%20oficinas%20de%20qualifica%C3%A7%C3%A3o%20profissional." target="_blank"><img src="imagesempre/ongs.jpg" id="brasil" height="200px" width="200px"></a>
+                  <p class="title" id="sebrae1">Descubra ONG y programas que ofrecen apoyo a inmigrantes en Brasil.</p>
+                </div>
+
+                <div class="card" id="sebrae">
+                  <a href="https://www.gov.br/mdh/pt-br/acesso-a-informacao/participacao-social/conselho-nacional-de-direitos-humanos-cndh/conselho-nacional-de-direitos-humanos-cndh" target="_blank"><img src="imagesempre/direitos.jpg" id="brasil"></a>
+                  <p class="title" id="sebrae1">Comprenda sus derechos y cómo buscar ayuda en caso de discriminación y abuso.</p>
+                </div>
               </div>
             </div>
             <div class="col-xl-7">
